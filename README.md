@@ -1,49 +1,50 @@
 # War Thunder Yellow Mark Measuring System
-Программа используется для вычисления расстояния от метки игрока до жёлтой метки совзводного/игрока.
-Основаная цель разработки - использование САУ в игре по назначению
+The program is used to calculate the distance from the player's marker to the yellow marker of the squad/player.
+The main purpose of the program is to use the arty in the game for its intended purpose.
 
-**Автор программы не несет ответственности за незаконное ипользование программы! Программа предназначена исключительно для ознакомительных целей.**
-**Автор программы не несет никакой ответственности, ни за какой ущерб, причиненный прямым или косвенным образом. Всю ответственность несет лицо, использующее данное программное обеспечение.**
+**The author of the program is not responsible for illegal use of the program! This program is for informational purposes only.
 
-# Настройка War Thunder
-1. War Thunder запустить в 1920х1080
-2. В настройках графики убрать галочку "Использовать Jpeg Скриншоты"
-3. В танковых настройках - размер карты выставить на 133%
-4. В управлении назначить клавишу для скриншота с интерфейсом
-5. В управлении назначить клавишу для желтой метки
+**The author of the program is not liable for any damage caused directly or indirectly. All liability is the responsibility of the person using the software.
 
-# Как использовать?
-## При первом использовании
-1. Нажать кнопку `Select Folder`
-2. Выбрать папку War Thunder.
-3. Нажать кнопку `Select Hotkey`
-4. Выбрать кнопку для замера дистанции. (Удобнее всего на ту же кнопку, что и "Скриншот с интерфейсом")
+# Setting up War Thunder
+1. Launch War Thunder in 1920x1080
+2. In the graphics settings uncheck "Use Jpeg Screenshots".
+3. In the tank settings - set the map size to 133%.
+4. In management assign a key for screenshot with interface
+5. In the control assign a key for the yellow marker
 
-## Использование в бою
-6. Во время игры - дождаться желтой метки от союзника (или самому её поставить).
-7. Нажать клавишу скриншота (С ИНТЕРФЕЙСОМ!!!).
-8. Получить дистанцию.
+## How to use?
+## When you use it for the first time
+1. Press the `Select Folder` button.
+2. Select the War Thunder folder.
+3. Press the `Select Hotkey` button.
+4. Select the button to measure the distance. (Most conveniently the same button as the `Screenshot with interface')
 
-# Настройка Телеграм-бота
-Для ускоренного получения дистанции можно использовать Телеграм-бота.
+## Use in combat
+6. During the game - wait for the yellow marker from an ally (or put it yourself).
+7. Press the screenshot key (WITH INTERFACE!!!).
+8. Get the distance.
 
-Ссылка - https://t.me/ymms_bot
+# Telegram bot setup.
+You can use Telegram bot to get the distance faster.
 
-## Чтобы настроить вывод в Телеграм-бота
-1. Нажмите кнопку `Connect TG`
-2. Скопируйте Код
-3. Вставьте Код в Телеграм-бота и отправьте сообщение
-4. Нажмите кнопку `Connect Telegram`
+The link is https://t.me/ymms_bot
+
+## To set up the output in the Telegram bot
+1. Press the `Connect TG' button.
+2. Copy the Code
+3. Paste the code into the Telegram bot and send the message
+4. Press the `Connect Telegram button
 
 
-# Что делают кнопки программы
-1. `Select Folder` Открывает диалоговое окно и сохраняет путь до папки с War Thunder.
-2. `Select Hotkey` Сохраняет Кнопку для замера дистанции
-3. `Info` Открывает эту страницу в браузере.
-4. `Connect TG`  Настраивает вывод дистанции в Телеграм-бота. (См. п. Настройка Телеграм-бота)
-5. `Use Telegram` Включает или выключает вывод в Телеграм-бота.
-6. `Clear Screenshots` Включает или выключает автоочищение папки с скриншотами во время запуска программы
+# What program buttons do
+1. `Selecter Folder` Opens a dialog box and saves the path to the folder with War Thunder.
+2. `Select Hotkey` Saves the Button to measure the distance
+3. `Info` Opens this page in the browser.
+4. `Connect TG` Configures the output of the distance in the Telegram bot. (See Setting up your bot)
+5. Turns on or off output in the Telegram bot.
+6. `Clear Screenshots` Enables or disables auto-clearing of the screenshots folder when you launch the program
 
-# Текущие проблемы и баги
-- Определение дистанции не работает в режимах "Захват"
-- Иногда не срабатывает отправка в Телеграм-бота
+# Current problems and bugs
+- Distance estimation does not work in Capture mode
+- Sometimes sending to Telegram bot does not work
