@@ -2,7 +2,7 @@
 
 <a href="https://github.com/qwazar14/WT-YMMS/blob/main/README_UA.md">УКРАЇНСЬКА</a>
 
-<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README_RU.md">ₚосійська</a>
+<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README_RU.md">російська</a>
 
 # War Thunder Yellow Mark Measuring System
 Програма використовується для обчислення відстані від мітки гравця до жовтої мітки союзника/гравця.
@@ -31,6 +31,7 @@
 7. Натиснути клавішу скріншота (З ІНТЕРФЕЙСОМ!).
 8. Отримати дистанцію.# Налаштування Телеграм-бота
 Для прискореного отримання дистанції можна використовувати телеграм-бота.
+
 Посилання - https://t.me/ymms_bot
 
 ## Щоб налаштувати висновок у Телеграм-бота
