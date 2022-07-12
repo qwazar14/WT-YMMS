@@ -1,3 +1,9 @@
+<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README.md">ENGLISH</a>
+
+<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README_UA.md">УКРАЇНСЬКА</a>
+
+<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README_RU.md">русский</a>
+
 # War Thunder Yellow Mark Measuring System
 The program is used to calculate the distance from the player's marker to the yellow marker of the squad/player.
 The main purpose of the program is to use the arty in the game for its intended purpose.
