@@ -1,3 +1,9 @@
+<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README.md">ENGLISH</a>
+
+<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README_UA.md">УКРАЇНСЬКА</a>
+
+<a href="https://github.com/qwazar14/WT-YMMS/blob/main/README_RU.md">русский</a>
+
 # War Thunder Yellow Mark Measuring System
 Программа используется для вычисления расстояния от метки игрока до жёлтой метки совзводного/игрока.
 Основаная цель разработки - использование САУ в игре по назначению
